@@ -1,2 +1,2 @@
 # CarsGuideAutomation
-Automation of CarsGuide Websites using Selenium4_POM_Jenkins_Maven_Docker_Kubernate_AWS
+Automation of CarsGuide Websites using Selenium4_Cucumber_POM_Jenkins_Maven_Docker_Kubernate_AWS
